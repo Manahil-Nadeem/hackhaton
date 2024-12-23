@@ -21,3 +21,21 @@
     }
   }
   
+  
+
+  .navbar{
+    background-color:hwb(60 5% 94%);
+    color:rgb(234, 232, 237);
+    height: 50px;
+    font-size: 30px;
+  }
+  
+  
+  navbar-buttons{
+    margin-left: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    font-size: 30px;;
+  }

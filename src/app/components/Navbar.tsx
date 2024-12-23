@@ -14,7 +14,10 @@ const Navbar = () => {
               <a href="#" className="text-gray-700 hover:text-blue-500">Pages</a>
               <a href="#" className="text-gray-700 hover:text-blue-500">About</a>
             </div>
-  
+
+
+            
+ {/* //   
             {/* Right Section: Contact & Cart */}
             <div className="flex items-center space-x-6">
               <span className="text-gray-600">Contact: (808) 555-0111</span>

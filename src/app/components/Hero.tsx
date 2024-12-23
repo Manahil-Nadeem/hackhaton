@@ -43,22 +43,39 @@ const Hero = () => {
         />
 
    
-    <div className="mt-6 text-center">
-  <img
-          src="/H.35.png" 
-          alt="feature product"
-          className="h-100 w-auto object-contain inline-block"
-        />
+    
 
 <div className="mt-6 text-center">
   <h1 className="text-[40px] text-Black-800 font-size50px font-bold text-lef">Our Products</h1>
   <img
           src="/H.46.png" 
-          alt="feature product"
+          alt="Our Products"
           className="h-100 w-auto object-contain inline-block"
         />
-    </div>
+<div className="mt-6 text-center">
+  <h1 className="text-[40px] text-Black-800 font-size50px font-bold text-lef">All Products</h1>
+  <img
+          src="/69.png" 
+          alt="all product"
+          className="h-150 w-300 object-contain inline-block"
+        />
 
+<div className="mt-6 text-center">
+  <img
+          src="/89.png" 
+          alt="all product"
+          className="h-150 w-300 object-contain inline-block"
+        />
+ <div className="mt-6 text-center">
+  <img
+          src="/99.png" 
+          alt="library stool chair"
+          className="h-150 w-300 object-contain inline-block"
+        />
+ 
+    </div>
+    </div>
+</div>
     </div>
   </div>
 </div>
