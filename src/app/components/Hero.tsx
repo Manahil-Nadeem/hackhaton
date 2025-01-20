@@ -11,7 +11,7 @@ const Hero = () => {
         />
 
 <div className="w-full md:w-full  px-4 ">
-    <div className=" mt-1 bg-gray-100 py-150 " >
+    <div className=" mt-1 bg-gray-100 py-200 " >
       {/* Heading */}
       <p className=" spacing 12 mt-3 text-4xl h-100 text-black-600 text-left">
         Welcome to Chairy
@@ -20,7 +20,10 @@ const Hero = () => {
         Best Furniture Collection for <br/>
         your interior.
       </h1>
-      <button className="mt-9 bg-green-500 text-white px-6 py-3 rounded">Shop Now</button>
+
+      <button className="bg-[#029FAE] w-[171px] text-white py-3 px-6 rounded-[8px] flex items-center gap-[20px] hover:bg-blue-700 mx-auto sm:mx-0">
+      <span>Shop Now</span></button>
+      
      </div>
 
       
